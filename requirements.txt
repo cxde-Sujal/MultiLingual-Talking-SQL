@@ -11,3 +11,4 @@ pymysql
 sentence-transformers
 chromadb
 langchain_community
+googletrans
